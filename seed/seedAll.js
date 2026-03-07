@@ -30,22 +30,25 @@ const seedDatabase = async () => {
     const missingComponents = new Set();
     const matchedComponents = new Set();
 
-    pricesData.forEach(priceItem => {
-      const componentId = componentMap[priceItem.componentName];
+    pricesData.forEach(priceGroup => {
+      const componentId = componentMap[priceGroup.componentName];
       
       if (componentId) {
-        pricesWithComponentIds.push({
-          componentId: componentId,
-          vendor: priceItem.vendor,
-          price: priceItem.price,
-          currency: 'INR',
-          productUrl: priceItem.productUrl,
-          lastUpdated: new Date(),
-          inStock: priceItem.inStock !== undefined ? priceItem.inStock : true
+        // Iterate through each price in the prices array
+        priceGroup.prices.forEach(price => {
+          pricesWithComponentIds.push({
+            componentId: componentId,
+            vendor: price.vendor,
+            price: price.price,
+            currency: 'INR',
+            productUrl: price.productUrl,
+            lastUpdated: new Date(),
+            inStock: price.inStock !== undefined ? price.inStock : true
+          });
         });
-        matchedComponents.add(priceItem.componentName);
+        matchedComponents.add(priceGroup.componentName);
       } else {
-        missingComponents.add(priceItem.componentName);
+        missingComponents.add(priceGroup.componentName);
       }
     });
 

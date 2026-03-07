@@ -5,7 +5,6 @@ import Component from '../models/Component.js';
 export const getPricesByComponentId = async (req, res) => {
   try {
     const { componentId } = req.params;
-    console.log(componentId);
     
     const prices = await Price.find({ componentId }).sort({ price: 1 });
 
