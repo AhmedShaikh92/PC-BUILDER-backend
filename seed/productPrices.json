@@ -1,0 +1,291 @@
+[
+  {
+    "productName": "Ant PC Titan Gaming Desktop",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 32999,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Desktop-Processor-Graphics-Framless-Keyboard/dp/B0GNHQZL8Z/"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 51062,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/groovi-gaming-computer-3-4ghz-core-i7-7th-gen-16-gb-ddr4-2-tb-256-ssd-windows-11-home-4-gb-22-inch-screen-gaming-keyboard-mouse-speaker-4gb-nvidia-graphic-card-speaker-ms-office/p/itm8e5e3c3a04dca"
+      }
+    ]
+  },
+  {
+    "productName": "HP Pavilion Desktop TG01",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 66160,
+        "inStock": true,
+        "productUrl": "https://www.amazon.com/HP-Pavilion-Processor-Pre-Built-TG01-2022/dp/B09NF6S5PZ/ref=sr_1_1?sr=8-1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 58088,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/hp-pavilion-tg01-0202-ryzen-5-3500-8-gb-ram-nvidia-geforce-gtx-1650-graphics-1-tb-hard-disk-512-ssd-capacity-windows-10-64-bit-4-graphics-memory-gaming-tower/p/itm8d146474b6013"
+      }
+    ]
+  },
+  {
+    "productName": "Lenovo IdeaCentre 5i",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 49990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Lenovo-IdeaCentre-i3-14100-Bluetooth-90XS005PIN/dp/B0FMF1C4TX/ref=sr_1_3?s=computers&sr=1-3"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 48790,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/lenovo-ideacentre-tower-intel-core-i5-13420h-8-gb-ram-integrated-uhd-graphics-graphics-512-hard-disk-512-ssd-capacity-windows-11-home-64-bit-full/p/itm1ba34dcb79426"
+      }
+    ]
+  },
+  {
+    "productName": "Reliance RDV200 Desktop",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 15390,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Reliance-RDV200-6th-256-SSD/dp/B0DT9B8BYQ/ref=sr_1_1?nsdOptOutParam=true&sr=8-1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 17360,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/reliance-rdv200-ultra-8-256-gb-windows-11-eval-black-core-i5-6th-gen-8-gb-ram-intel-uhd-530-onboard-graphics-256-ssd-capacity-windows-pro-mini-tower/p/itm9a57f36440066?pid=CPUHBPSSX4NTGZNG&lid=LSTCPUHBPSSX4NTGZNGHM4PQ6&hl_lid=&marketplace=FLIPKART&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&pageUID=1774959654436"
+      }
+    ]
+  },
+  {
+    "productName": "ASUS TUF Gaming T500",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 84990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/ASUS-i5-13420H-3050-6GB-Keyboard-T500MV-13420H022WS/dp/B0F7R43TGN/ref=pd_day0_d_sccl_1_2/261-8391623-9676532?psc=1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 84990,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/asus-tuf-gaming-t500-2025-desktop-core-i5-13420h-16-gb-ram-nvidia-geforce-rtx-3050-graphics-1-tb-ssd-capacity-windows-11-home-64-bit-6-graphics-memory-mini-tower-ms-office/p/itmd00df4c247655?pid=CPUHDQ4EZGT3U6TC&lid=LSTCPUHDQ4EZGT3U6TC6OEFPQ&marketplace=FLIPKART&q=asus+tuf+t500&store=6bo%2Fnl4&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_10_na_na_na&fm=Search&iid=1dd789b7-5e98-439e-bdef-c12b3cd7c727.CPUHDQ4EZGT3U6TC.SEARCH&ppt=sp&ppn=sp&ssid=hr048tsczk0000001774968366533&qH=1356cc1ad05e7356&ov_redirect=true&ov_redirect=true"
+      }
+    ]
+  },
+  {
+    "productName": "Dell XPS Desktop 8960",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 72750,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Dell-Inspiron-3030S-i5-12400-Processor/dp/B0DFMLDVM6/ref=sr_1_1?crid=13ENVO7403XQE&dib=eyJ2IjoiMSJ9.9cJd0SQsd44f3SA1L6gqae8V9mPQp3MIpGmARCpXYgJ_pgln98U0APGp-UP3A5SwXI2CjYPP7rlZ3ftqDKQI6tpALhHMKWs96oihHqgbxFDqzC_GG2snlKDqbqS_srA46M0EbKeaPaGYh3Q-mhXKgfK8FEafibpl2iJKFKtw9IxzhMav9JCD20b4Sh_Qvk_4f6yGdxoGs_nqbQgKeCzCzXHKLAjH3QHdWb_bSkWLYFc.Z-Drpu_pt21nFqg29jDcS_UyJi_1_eEU4hBrAgmkYjI&dib_tag=se&keywords=Dell%2BXPS%2BDesktop%2B8960&qid=1774977124&sprefix=dell%2Bxps%2Bdesktop%2B8960%2Caps%2C379&sr=8-1&th=1"
+      },
+      {
+        "vendor": "Ubuy",
+        "price": 83199,
+        "inStock": true,
+        "productUrl": "https://www.ubuy.co.in/product/MKS9Z9PSA-dell-inspiron-3030s-small-desktop-intel-core-i5-14400-processor-16gb-ddr5-ram-512gb-ssd-intel-uhd-730-graphics-windows-11-home-onsite-migrate?srsltid=AfmBOoqbeq967DqeNmmMpkH2JYF-uO1t0kVycBlEHzJyHclS7PBYkzTbSao"
+      }
+    ]
+  },
+  {
+    "productName": "Dell Vostro 3020 Tower",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 46000,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Dell-Vostro-3030S-Warranty-Bluetooth/dp/B0DR39C39F"
+      },
+      {
+        "vendor": "excess2sell",
+        "price": 38499,
+        "inStock": true,
+        "productUrl": "https://www.excess2sell.com/product/dell-vostro-3030-desktop-intel-core-i3-12th-gen-8gb-ram-512gb-ssd-dos-wi-fi-bluetooth-no-monitor-3-years-warranty?pid=dellvcodede1756882585808&srsltid=AfmBOoqS3CHIkKUsHeLcXMkIIjG6WbxIk-k2e1GbPaqbVdAMU34gjvpmrak"
+      }
+    ]
+  },
+  {
+    "productName": "Dell Precision T3680 Tower",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 189999,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Dell-Precision-T3680-Workstation-i9-14900/dp/B0FDL97FW4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3EJDORX6G9IT3"
+      },
+      {
+        "vendor": "ampro",
+        "price": 185999,
+        "inStock": false,
+        "productUrl": "https://ampro.in/product/buy-dell-precision-t3680-core-i9-desktop-online/?srsltid=AfmBOopd6OXh_hBDO7HFTMYrYs8jaSoYDppnLPVJKqK_KQOgTd-y-mbzPDY"
+      }
+    ]
+  },
+  {
+    "productName": "Lenovo Thinkstation P3",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 134000,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Lenovo-Thinkstation-Workstation-i7-13700-Windows/dp/B0CVSFHZJN/ref=sr_1_3?crid=CRV8MIUQ221B&dib=eyJ2IjoiMSJ9.wxf1yXkUDryiBCcEy-XkgiE-IGgf0qI4SgdcYUJgksCWAnD7LHxwc8ADPb364epiI-Jhgggle9yzgwcn_C4dr1I0egySl5YEY-jtIn6u9RMaVvX3xB8N_W_y0554TxTxEYldHLFQTWrsHZkogMvZesO9v7axuZjNqUhsnu8oB7Va3ItCeHG0wPP6WDzA5dvmw6mGCoQLlxw3YHLUXKp4zyl2IOY2R_tKqHHEhMuVCsI.YSTPdPoyldsP1SDdGDiPPN0ouKMxZhU-GbsrXLdI57Y&dib_tag=se&keywords=Lenovo+Legion+Tower+5i&qid=1774978706&sprefix=lenovo+legion+tower+5i%2Caps%2C409&sr=8-3"
+      },
+      {
+        "vendor": "lowestrate",
+        "price": 110000,
+        "inStock": true,
+        "productUrl": "https://lowestrate.in/shop/lenovo/lenovo-thinkstation-p2-tower-desktop-intel-core-i7-14700-vpro-16gb-ram-512gb-ssd-slim-dvd-integrated-graphics-win-11-pro-serial-port-750-watts/?srsltid=AfmBOoqZ5G20tRuJYUNh9_tqvqk4-NrM7CyqjlEZV790c5TdoZpgvRsyEUw&v=13b5bfe96f3e"
+      }
+    ]
+  },
+  {
+    "productName": "acer Aspire XC-1760",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 61999,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/acer-XC-1760-Processor-Graphics-Keyboard/dp/B0FP57ZK5B/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_2/525-0115331-2521078?pd_rd_w=W9GGA&content-id=amzn1.sym.ed04a9b6-f1e8-467f-8e81-e050db1b5151&pf_rd_p=ed04a9b6-f1e8-467f-8e81-e050db1b5151&pf_rd_r=49W49H8JBYM39AXHFZB5&pd_rd_wg=TWTE3&pd_rd_r=ba1381de-8606-4c57-b01f-9b3e169edb60&pd_rd_i=B0FP57ZK5B&psc=1"
+      },
+      {
+        "vendor": "lowestrate",
+        "price": 61949,
+        "inStock": true,
+        "productUrl": "https://lowestrate.in/shop/desktop/acer-aspire-xc-1760-core-i5-14400-processor-desktop-windows-11-home-16-gb-ddr5-512-gb-ssd-intel-uhd-graphics-black-ms-office-wired-keyboard-and-mouse/?srsltid=AfmBOopVJf1Y3KCAGEHsDke1CV5DcrOxCatzi8EBNRlEw7KC7YJP-lhaNJU&v=13b5bfe96f3e"
+      }
+    ]
+  },
+  {
+    "productName": "ASUS ROG Strix G16 ",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 159990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/ASUS-Samrtchoice-5050-8GB-Windows-G614PH-RV033WS/dp/B0FB9G9XVG?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 180990,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/hi/asus-rog-strix-g16-2025-office-2024-m365-basic-amd-ryzen-9-16-core-8940hx-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-5060-240-hz-g614pm-s5046ws-gaming-laptop/p/itm38304d3595c02?pid=COMHCQ4KUZS5KBUZ&lid=LSTCOMHCQ4KUZS5KBUZBY5ZOH&marketplace=FLIPKART&hl_lid=&store=4rr%2Ftz1&spotlightTagId=default_TrendingId_4rr%2Ftz1&ctx=eyJkZWxpdmVyZWRCeSI6IiIsImRpc3BsYXlQcmljZSI6IjE4NDk5MCJ9&fm=eyJ3dHAiOiJwcm9kdWN0Q2FyZExpc3QiLCJwcnB0Ijoic3AiLCJtaWQiOiJQUk9EVUNUIn0"
+      }
+    ]
+  },
+  {
+    "productName": "HP Victus 15 ",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 95490,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/HP-i5-14450HX-Upgradeable-Office24-fa2382tx/dp/B0G3VG6GQ9?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AJ6SIZC8YQDZX&th=1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 89990,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/hp-victus-intel-core-i5-14th-gen-14450hx-24-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-15-fa2382tx-gaming-laptop/p/itm0c192bc70f78a?pid=COMHDHGHR2PMJYHT&lid=LSTCOMHDHGHR2PMJYHTO5Z9QG&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc"
+      }
+    ]
+  },
+  {
+    "productName": "Lenovo IdeaPad Slim 3 ",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 53990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Warranty-82RK0062IN/dp/B0B4KD52ZC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2X1JB841LIAPN"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 50199,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/lenovo-ideapad-slim-3-intel-core-i5-11th-gen-1155g7-8-gb-512-gb-ssd-windows-11-home-15itl6-thin-light-laptop/p/itmf7ba442601f89?pid=COMGGR9SBTFZCNDU&lid=LSTCOMGGR9SBTFZCNDUJMYUJO&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc"
+      }
+    ]
+  },
+  {
+    "productName": "Dell Inspiron 15 3530",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 54000,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Dell-Inspiron-i5-1334U-Processor-Standard/dp/B0DSFPW382?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3EJDORX6G9IT3"
+      },
+      {
+        "vendor": "JioMart",
+        "price": 49999,
+        "inStock": true,
+        "productUrl": "https://www.jiomart.com/p/electronics/dell-inspiron-3530-laptop-13th-gen-intel-core-i5-1334u-processor-8gb-512gb-ssd-15-6-39-62cm-fhd-display-backlit-keyboard-windows-11-home-mso-21-15-month-mcafee-silver-1-62kg/613345487?source=shoppingads"
+      }
+    ]
+  },
+  {
+    "productName": "Acer Predator Helios Neo 16",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 169990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Acer-Predator-i7-14700HX-Processor-PH16-72/dp/B0D8SYV345?th=1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 149990,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/acer-predator-helios-16-intel-core-i7-14th-gen-14700hx-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-4070-ph16-72-gaming-laptop/p/itm34f68c296ce65?pid=COMHFHSZVFYSNFGY&lid=LSTCOMHFHSZVFYSNFGYGCLMIZ&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc"
+      }
+    ]
+  },
+  {
+    "productName": "Apple MacBook Air M3",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 124990,
+        "inStock": true,
+        "productUrl": "amazon.in/Apple-2024-MacBook-Laptop-chip/dp/B0CX22C2CT/ref=sr_1_1?crid=2DNLX4Y30YJI6&dib=eyJ2IjoiMSJ9.RWam0ZRS81A_LZAq-qlyGdyoDcjdGBuOR8ccmL7PVX2C_-Dg0ekOlkteGBPMMvzFWkWtDF3zYqEq46CTnu8ki5ALePtYVMLqec-FG3td549NawV7FediNJYc1Wua10G_7S6SbAtiUkwOyIV2BGi6QgO3YOraPPYgFUHaf51b2WUzkQh1Lsw40IKfQxfCq3ZcF7AUFzz3u4QPJ6Yi_h-NG99FPANdva2dodEkTTjOzUnBB2WC0XApsqQpBEY5nqzpZLN93AaMWw_7Aj6Q92J-aWyKmqVnZnC5_zkUAA47XMI._tevmp1gyUN3Sz4thE8odxLDw4CDaMdRKx7QMNch21s&dib_tag=se&keywords=Apple+MacBook+Air+M3&qid=1774980465&s=computers&sprefix=apple+macbook+air+m3%2Ccomputers%2C359&sr=1-1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 134900,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/apple-macbook-air-m3-16-gb-512-gb-ssd-macos-sonoma-mxcv3hn-a/p/itmb1aa0cc739560?pid=COMGYP5GJJFZ5THM&marketplace=FLIPKART&lid=LSTCOMGYP5GJJFZ5THMFVSQWV&q=Apple+MacBook+Air+M3&fm=Search&pageUID=1774980610374"
+      }
+    ]
+  },
+  {
+    "productName": "Samsung Galaxy Book4",
+    "prices": [
+      {
+        "vendor": "Amazon",
+        "price": 58990,
+        "inStock": true,
+        "productUrl": "https://www.amazon.in/Samsung-Office2024-Fingerprint-Graphics-NP750XGJ-LS6IN/dp/B0GDN58N2Z/ref=sr_1_1?crid=1PWLXDSNPNUAU&dib=eyJ2IjoiMSJ9.jAKmUdzNfaIKzALUPdYtDdDkrXxzTDUkbO8c5GfRiyM0nt6pLdUj2PUqWzpT86hOwQk0Ik7HOOXH6X_9d0VQyHz_SJceBHHlloRV2PleIHYIIzA76iXJD6XKO2bm-n-22YGjIIOZegc4esFyE9OszIx8k7wievNyprgwc_gc0QBcHPXz_pLQqMEOfVrk_WoWPtf2XruWdRMZ5NrpQV6C-CgvRunmf2axPYCXdBfLwStbiSRxAZLsEK4KTjprwQ56HN1W62MKCCG-hfcOGPc7sv7eSkwAGAkT-bmmkiBmsVo.8mu1RgnIpSPOIjcL4naQOZq7tgVZysGUSMy8hst7HHI&dib_tag=se&keywords=Samsung%2BGalaxy%2BBook4&qid=1774980689&refresh=1&s=computers&sprefix=samsung%2Bgalaxy%2Bbook4%2Ccomputers%2C377&sr=1-1&th=1"
+      },
+      {
+        "vendor": "Flipkart",
+        "price": 58730,
+        "inStock": true,
+        "productUrl": "https://www.flipkart.com/samsung-galaxy-book4-metal-intel-core-i5-13th-gen-1335u-16-gb-512-gb-ssd-windows-11-home-np750xgj-thin-light-laptop/p/itm1df5212efb9fc?pid=COMGZUYDGFJGHZR4&lid=LSTCOMGZUYDGFJGHZR4JPVIN2&marketplace=FLIPKART&q=Samsung+Galaxy+Book4&store=6bo%2Fb5g&spotlightTagId=default_BestsellerId_6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=ef8a25a1-4c4a-4deb-b326-0e326033c187.COMGZUYDGFJGHZR4.SEARCH&ppt=sp&ppn=sp&ssid=e0eosf6p6o0000001774980767235&qH=d90d511ba79ff912&ov_redirect=true"
+      }
+    ]
+  }
+]

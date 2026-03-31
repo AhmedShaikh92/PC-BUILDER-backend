@@ -1,0 +1,288 @@
+[
+  {
+    "name": "Ant PC Titan Gaming Desktop",
+    "type": "PreBuiltPC",
+    "brand": "Ant PC",
+    "useCases": ["Any","Gaming","Content Creation"],
+    "imageUrl": "https://m.media-amazon.com/images/I/716vjw3Pv+L._SX522_.jpg",
+    "benchmarkScore": 82,
+    "specs": {
+      "cpu": "Intel Core i7-12700",
+      "gpu": "NVIDIA GeForce RTX 3060 12GB",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "storageType": "SSD",
+      "os": "Windows 11 Pro"
+    }
+  },
+  {
+    "name": "HP Pavilion Desktop TG01",
+    "type": "PreBuiltPC",
+    "brand": "HP",
+    "useCases": ["Any","Gaming", "Productivity"],
+    "imageUrl": "https://rukminim2.flixcart.com/image/1920/1920/k7285u80/cpu/a/p/y/tg01-0203-hp-original-imafpdy5bfzhp5gd.jpeg?q=90",
+    "benchmarkScore": 68,
+    "specs": {
+      "cpu": "AMD Ryzen 5 5600G",
+      "gpu": "NVIDIA GeForce GTX 1650 4GB",
+      "ramGB": 8,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Lenovo IdeaCentre 5i",
+    "type": "PreBuiltPC",
+    "brand": "Lenovo",
+    "useCases": ["Any","Office", "Productivity"],
+    "imageUrl": "https://m.media-amazon.com/images/I/618TCAmvMlL._SX522_.jpg",
+    "benchmarkScore": 62,
+    "specs": {
+      "cpu": "Intel Core i3-14100",
+      "gpu": "Integrated Intel UHD Graphics 730",
+      "ramGB": 8,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Reliance RDV200 Desktop",
+    "type": "PreBuiltPC",
+    "brand": "Reliance",
+    "useCases": ["Any","Office","Student"],
+    "imageUrl": "https://m.media-amazon.com/images/I/41zgPCnCkyL._SX679_.jpg",
+    "benchmarkScore": 55,
+    "specs": {
+      "cpu": "Intel i5 6th Gen 4200U",
+      "gpu": "Intel UHD Integrated Graphics",
+      "ramGB": 8,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "ASUS TUF Gaming T500",
+    "type": "PreBuiltPC",
+    "brand": "ASUS",
+    "useCases": ["Any","Gaming"],
+    "imageUrl": "https://m.media-amazon.com/images/I/71eSYlBqnPL._SX679_.jpg",
+    "benchmarkScore": 79,
+    "specs": {
+      "cpu": "Intel Core i5-13420H",
+      "gpu": "NVIDIA GeForce RTX 3050 6GB",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Dell XPS Desktop 8960",
+    "type": "PreBuiltPC",
+    "brand": "Dell",
+    "useCases": ["Any","Productivity", "Gaming"],
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx83VuCQ2dnEnNm_dK4dq8YoIxy4IO54vvqA&s",
+    "benchmarkScore": 88,
+    "specs": {
+      "cpu": "Intel Core i5-14400",
+      "gpu": "NVIDIA GeForce RTX 4060 Ti 8GB",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Pro"
+    }
+  },
+  {
+    "name": "Dell Vostro 3020 Tower",
+    "type": "PreBuiltPC",
+    "brand": "Dell",
+    "useCases": ["Any","Office", "Productivity"],
+    "imageUrl": "https://m.media-amazon.com/images/I/61xQ3WvStQL._SX679_.jpg",
+    "benchmarkScore": 48,
+    "specs": {
+      "cpu": "Intel Core i3-13100",
+      "gpu": "Integrated Intel UHD Graphics 730",
+      "ramGB": 8,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Dell Precision T3680 Tower",
+    "type": "PreBuiltPC",
+    "brand": "Dell",
+    "useCases": ["Any","Gaming", "Editing"],
+    "imageUrl": "https://m.media-amazon.com/images/I/71Zmn-g6swL._SY879_.jpg",
+    "benchmarkScore": 94,
+    "specs": {
+      "cpu": "Intel Core i9-14900 14th Gen, 16GB DDR5",
+      "gpu": "NVIDIA RTX 4000 Ada 20GB",
+      "ramGB": 32,
+      "storageGB": 2048,
+      "storageType": "SSD",
+      "os": "Windows 11 Pro"
+    }
+  },
+  {
+    "name": "Lenovo Thinkstation P3",
+    "type": "PreBuiltPC",
+    "brand": "Lenovo",
+    "useCases": ["Any","Gaming", "Streaming"],
+    "imageUrl": "https://m.media-amazon.com/images/I/61o9xEmykJL._SX679_.jpg",
+    "benchmarkScore": 84,
+    "specs": {
+      "cpu": "Intel Core i7-13700 2.1Ghz",
+      "gpu": "NVIDIA GeForce RTX 4060 8GB",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "acer Aspire XC-1760",
+    "type": "PreBuiltPC",
+    "brand": "MSI",
+    "useCases": ["Any","Gaming", "Content Creation"],
+    "imageUrl": "https://m.media-amazon.com/images/I/71JB5kEYV4L._SX679_.jpg",
+    "benchmarkScore": 81,
+    "specs": {
+      "cpu": "Core i5 14400 Processor",
+      "gpu": "NVIDIA GeForce RTX 3060 12GB",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "ASUS ROG Strix G16 ",
+    "type": "Laptop",
+    "brand": "ASUS",
+    "useCases": ["Any","Gaming", "Content Creation", "Streaming"],
+    "imageUrl": "https://m.media-amazon.com/images/I/8174YnTefkL._SX679_.jpg",
+    "benchmarkScore": 92,
+    "specs": {
+      "cpu": "AMD Ryzen 9 8940HX",
+      "gpu": "NVIDIA GeForce RTX 4070 8GB",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "storageType": "SSD",
+      "displayInches": 16,
+      "batteryWh": 90,
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "HP Victus 15 ",
+    "type": "Laptop",
+    "brand": "HP",
+    "useCases": ["Any","Gaming", "Student"],
+    "imageUrl": "https://m.media-amazon.com/images/I/411e6B1LSmL._SY300_SX300_QL70_FMwebp_.jpg",
+    "benchmarkScore": 74,
+    "specs": {
+      "cpu": "Intel Core i5-13420H",
+      "gpu": "NVIDIA GeForce RTX 3050 6GB",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "displayInches": 15.6,
+      "batteryWh": 70,
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 ",
+    "type": "Laptop",
+    "brand": "Lenovo",
+    "useCases": ["Any","Office","Productivity"],
+    "imageUrl": "https://m.media-amazon.com/images/I/81iiHfKu-iL._SX679_.jpg",
+    "benchmarkScore": 64,
+    "specs": {
+      "cpu": "Intel Core i5-1235U",
+      "gpu": "Intel UHD Graphics",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "displayInches": 15.6,
+      "batteryWh": 45,
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Dell Inspiron 15 3530",
+    "type": "Laptop",
+    "brand": "Dell",
+    "useCases": ["Any","Student", "Office"],
+    "imageUrl": "https://m.media-amazon.com/images/I/71VIrTrQLZL._SX679_.jpg",
+    "benchmarkScore": 67,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "gpu": "Intel Iris Xe Graphics",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "displayInches": 15.6,
+      "batteryWh": 41,
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Acer Predator Helios Neo 16",
+    "type": "Laptop",
+    "brand": "Acer",
+    "useCases": ["Any","Gaming", "Streaming"],
+    "imageUrl": "https://www.flipkart.com/acer-predator-helios-neo-16-intel-core-i7-14th-gen-14700hx-16-gb-1-tb-ssd-windows-11-home-6-gb-graphics-nvidia-geforce-rtx-4050-phn16-72-77gz-gaming-laptop/p/itm34f68c296ce65?pid=COMGZKFB3ZTQGRT4&lid=LSTCOMGZKFB3ZTQGRT4YMVGPV&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+    "benchmarkScore": 89,
+    "specs": {
+      "cpu": "Intel Core i7-13700HX",
+      "gpu": "NVIDIA GeForce RTX 4050 6GB",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "storageType": "SSD",
+      "displayInches": 16,
+      "batteryWh": 90,
+      "os": "Windows 11 Home"
+    }
+  },
+  {
+    "name": "Apple MacBook Air M3",
+    "type": "Laptop",
+    "brand": "Apple",
+    "useCases": ["Any","Productivity", "Student"],
+    "imageUrl": "https://m.media-amazon.com/images/I/71-D1xCuVwL._SX679_.jpg",
+    "benchmarkScore": 86,
+    "specs": {
+      "cpu": "Apple M3 (8-core)",
+      "gpu": "Apple M3 (10-core)",
+      "ramGB": 16,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "displayInches": 13.6,
+      "batteryWh": 52.6,
+      "os": "macOS Sonoma"
+    }
+  },
+  {
+    "name": "Samsung Galaxy Book4",
+    "type": "Laptop",
+    "brand": "Samsung",
+    "useCases": ["Any","Productivity", "Office"],
+    "imageUrl": "https://m.media-amazon.com/images/I/61WUU7hja2L._SX679_.jpg",
+    "benchmarkScore": 72,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "gpu": "Intel Iris Xe Graphics",
+      "ramGB": 8,
+      "storageGB": 512,
+      "storageType": "SSD",
+      "displayInches": 15.6,
+      "batteryWh": 54,
+      "os": "Windows 11 Home"
+    }
+  }
+]
